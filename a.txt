@@ -1,9 +1,4 @@
 Siddharth 
 Hello from A, hola.
 Arpan
-<<<<<<< HEAD
-ho
-=======
-hi
-
->>>>>>> ea6aa9315b637e7d262c39a556e01c219232318e
+hoho
